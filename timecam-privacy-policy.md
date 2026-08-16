@@ -2,7 +2,7 @@
 
 > 生效日期 / Effective date: 2026-08-16
 > 开发者 / Developer: StellarLink
-> 联系邮箱 / Contact: privacy@stellarlink.app  （请替换为你自己的真实邮箱 / replace with your real email）
+> 联系邮箱 / Contact: rockeymen@gmail.com
 
 ---
 
@@ -48,7 +48,7 @@
 如本隐私政策发生变更，我们将在本页面更新并注明生效日期。
 
 ### 8. 联系我们
-如有任何疑问，请通过邮箱 **privacy@stellarlink.app** 联系我们。
+如有任何疑问，请通过邮箱 **rockeymen@gmail.com** 联系我们。
 
 ---
 
@@ -94,4 +94,4 @@ Your photos and videos always remain on your device; the App never uploads them 
 If this Privacy Policy changes, we will update it on this page and indicate the effective date.
 
 ### 8. Contact Us
-For any questions, contact us at **privacy@stellarlink.app**.
+For any questions, contact us at **rockeymen@gmail.com**.
